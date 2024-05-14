@@ -14,8 +14,12 @@ body {
 
 .header__menu {
     display: flex;
-    width: 540px;
-    height: 22px;
+    width: 391.48px;
+height: 22px;
+top: 44px;
+left: 26.52px;
+
+
 }
 
 .header__links-list {
